@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Numdao GameDev
+I'm Numdao
 
 ### Skill :
 C#
