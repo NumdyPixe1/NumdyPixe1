@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h3 align="left">Connect with me</h3>
-<p align="left">numdao123@gmail.com
-</p>
 <h3 align="left">Skills</h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
