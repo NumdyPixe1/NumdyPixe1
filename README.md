@@ -4,6 +4,7 @@
  I'm Game Developer
 
 <p align="left"> 
+<h2 align="left">Skills</h2>
 <h3 align="left">Programming language</h3>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
