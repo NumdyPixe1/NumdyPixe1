@@ -1,13 +1,14 @@
 ![Header](https://github.com/NumdyPixe1/NumdyPixe1/assets/120677321/65636fab-061b-42c1-ad18-e6a253c60b66)
 <h1> Hi there, I'm Numdao👋</h1>
 <hr>
- I'm Game Developer
+ I'm a Game Developer
 
 <p align="left"> 
 <h2 align="left">Skills</h2>
 <h3 align="left">Programming language</h3>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
+ <!-- 
 <h3 align="left">Game engine</h3>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>  
 <h3 align="left">Design software</h3>
@@ -20,7 +21,7 @@
  <h3 align="left">3D software</h3>
  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </p
-                                                                                                                                                                                                                      <!--                                                                                                                                                                                                                    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NumdyPixe1&theme=dracula)](https://github.com/NumdyPixe1/github-readme-stats) 
+                                                                                                                                                                                                                                                                                                                                                                                                                                        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NumdyPixe1&theme=dracula)](https://github.com/NumdyPixe1/github-readme-stats) 
                                                                                                                                                                                                                                                                                                                                                                                                                                           ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NumdyPixe1&show_icons=true&theme=dracula)             
  -->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 
