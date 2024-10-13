@@ -3,12 +3,11 @@
 <hr>
  I'm a Game Developer
 
+ <!--
 <p align="left"> 
 <h2 align="left">Skills</h2>
 <h3 align="left">Programming language</h3>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
- <!-- 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
 <h3 align="left">Game engine</h3>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>  
 <h3 align="left">Design software</h3>
