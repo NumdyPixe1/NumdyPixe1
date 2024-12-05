@@ -2,7 +2,7 @@
 <img src="https://github.com/NumdyPixe1/NumdyPixe1/assets/120677321/65636fab-061b-42c1-ad18-e6a253c60b66" alt=""/>
 <h1> Hi there, I'm Numdao👋</h1>
 
-<p>I’m a recent graduate with a major in Interactive Design and Game Development, 
+<p>I’m recent graduate with a major in Interactive Design and Game Development, 
 I have a strong passion for both playing and committed to learning developing games.</p>
 
  <!--
