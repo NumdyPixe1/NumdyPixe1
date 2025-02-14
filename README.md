@@ -5,6 +5,26 @@
 <p>I’m recent graduate with a major in Interactive Design and Unity Developer, 
 I have a strong passion for both playing and committed to learning developing games.</p>
 
+<details>
+  <summary>📃 Resume</summary>
+
+## Education
+
+- 📖 **Interactive Design and Game Development**\
+📆 2020 - 2024\
+📍 **Dhurakij Pundit University** - Bangkok, Thailand
+
+## Experience
+
+- 👨‍💻 **Game Developer Intern**\
+📆 january 2024 - may 2024\
+📍 **Digitopolis Co., Ltd.** - Bangkok, Thailand <img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+
+
+
+
+
+</details>
  <!--
 <p align="left"> 
 <h2 align="left">Skills</h2>
