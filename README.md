@@ -19,9 +19,9 @@ I have a strong passion for both playing and committed to learning developing ga
 
 ## Experience
 
-- 👨‍💻 **Game Developer Intern**\
+- 👨‍💻 **Game Developer Intern**\ <img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>\
 📆 january 2024 - may 2024\
-📍 **Digitopolis Co., Ltd.** - Bangkok, Thailand <img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+📍 **Digitopolis Co., Ltd.** - Bangkok, Thailand 
 
 
 
