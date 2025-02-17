@@ -13,6 +13,9 @@ I have a strong passion for both playing and committed to learning developing ga
 - 📖 **Interactive Design and Game Development**\
 📆 2020 - 2024\
 📍 **Dhurakij Pundit University** - Bangkok, Thailand
+- 📖 **Program in Web Engineering and Mobile Application Development**\
+📆 2024 - Present\
+📍 **Dhurakij Pundit University** - Bangkok, Thailand
 
 ## Experience
 
