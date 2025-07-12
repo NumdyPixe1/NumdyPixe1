@@ -5,6 +5,12 @@
 <p>I’m recent graduate with a major in Interactive Design and Unity Developer, 
 I have a strong passion for both playing and committed to learning developing games.</p>
 
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,typescript,nodejs,react,nextjs,unity,tailwind,bootstrap,vite" />
+  </a>
+</p>
+
 <details>
   <summary>📃 Resume</summary>
 
