@@ -7,7 +7,7 @@ I have a strong passion for both playing and committed to learning developing ga
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,typescript,nodejs,react,nextjs,unity,tailwind,bootstrap,vite" />
+    <img src="https://skillicons.dev/icons?i=cs,typescript,js,nodejs,react,nextjs,tailwind,bootstrap,unity" />
   </a>
 </p>
 
