@@ -19,16 +19,18 @@ I have a strong passion for both playing and committed to learning developing ga
 - 📖 **Interactive Design and Game Development**\
 📆 2020 - 2024\
 📍 **Dhurakij Pundit University** - Bangkok, Thailand
+
 - 📖 **Web Engineering and Mobile Application Development**\
 📆 2024 - Present\
 📍 **Dhurakij Pundit University** - Bangkok, Thailand
 
 ## Experience
 
-- 👨‍💻 **Game Developer Intern** <img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>\
+- 👨‍💻 **Game Developer Intern** <img   align="right" src="https://skillicons.dev/icons?i=cs,unity" />\
 📆 January 2024 - May 2024\
 📍 **Digitopolis Co., Ltd.** - Bangkok, Thailand
-- 👨‍💻 **Front-end Developer (supporting role)** <img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>\
+
+- 👨‍💻 **Front-end Developer (supporting role)** <img width="120" height="120" align="right" src="https://skillicons.dev/icons?i=redux,typescript,react,tailwind" />\
 📆 August 2024 - Present\
 📍 **Hybrid** - Bangkok, Thailand
 
