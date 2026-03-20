@@ -27,11 +27,11 @@ I have a strong passion for both playing and committed to learning developing ga
 ## Experience
 
 - 👨‍💻 **Game Developer Intern** <img width="60" align="right" src="https://skillicons.dev/icons?i=cs,unity" />\
-📆 January 2024 - May 2024\
+📆 January - May 2024\
 📍 **Digitopolis Co., Ltd.** - Bangkok, Thailand
 
 - 👨‍💻 **Front-end Developer (supporting role)** <img width="120"  align="right" src="https://skillicons.dev/icons?i=redux,typescript,react,tailwind" />\
-📆 August 2024 - Present\
+📆 August - October 2024\
 📍 **Hybrid** - Bangkok, Thailand
 
 
