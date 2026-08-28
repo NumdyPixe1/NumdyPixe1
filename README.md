@@ -26,13 +26,19 @@ I have a strong passion for both playing and committed to learning developing ga
 
 ## Experience
 
+- 👨‍💻 **Game Master (GM)**
+📆 May - August 2026\
+📍 **Electronics Extreme Co., Ltd. (Hybrid)** - Nonthaburi, Thailand
+
+- 👨‍💻 **Front-end Developer (supporting role)** <img width="120"  align="right" src="https://skillicons.dev/icons?i=redux,typescript,react,tailwind" />\
+📆 August - October 2024\
+📍 **Freelance (WFH)** - Bangkok, Thailand
+
 - 👨‍💻 **Game Developer Intern** <img width="60" align="right" src="https://skillicons.dev/icons?i=cs,unity" />\
 📆 January - May 2024\
 📍 **Digitopolis Co., Ltd.** - Bangkok, Thailand
 
-- 👨‍💻 **Front-end Developer (supporting role)** <img width="120"  align="right" src="https://skillicons.dev/icons?i=redux,typescript,react,tailwind" />\
-📆 August - October 2024\
-📍 **Hybrid** - Bangkok, Thailand
+
 
 
 
