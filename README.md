@@ -12,9 +12,10 @@ I have a strong passion for both playing and committed to learning developing ga
 </p>
 
 
-## Projects 
-- [Deadline](https://numdypixe1.github.io/deadline/)
-- [Portfolio](https://nextjs-portfolio-o14iasqpg-numdypixe1s-projects.vercel.app/)
+# Projects 
+- [Deadline](https://numdypixe1.github.io/deadline/) The website calculates the duration from start to end.
+- [Portfolio](https://nextjs-portfolio-o14iasqpg-numdypixe1s-projects.vercel.app/) Portfolio website inspired by the Windows XP theme, using MongoDB
+for project data management.
 
 <details>
   <summary>📃 Resume</summary>
