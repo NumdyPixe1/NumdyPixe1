@@ -11,6 +11,11 @@ I have a strong passion for both playing and committed to learning developing ga
   </a>
 </p>
 
+
+## Projects 
+[Deadline](https://numdypixe1.github.io/deadline/)
+[Portfolio](https://nextjs-portfolio-o14iasqpg-numdypixe1s-projects.vercel.app/)
+
 <details>
   <summary>📃 Resume</summary>
 
@@ -37,13 +42,6 @@ I have a strong passion for both playing and committed to learning developing ga
 - 👨‍💻 **Game Developer Intern** <img width="60" align="right" src="https://skillicons.dev/icons?i=cs,unity" />\
 📆 January - May 2024\
 📍 **Digitopolis Co., Ltd.** - Bangkok, Thailand
-
-
-
-
-
-
-
 </details>
  <!--
 <p align="left"> 
