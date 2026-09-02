@@ -18,7 +18,7 @@ I have a strong passion for both playing and committed to learning developing ga
 for project data management.
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 Education & Experience</summary>
 
 # Education
 
