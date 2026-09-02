@@ -20,7 +20,7 @@ for project data management.
 <details>
   <summary>📃 Resume</summary>
 
-## Education
+# Education
 
 - 📖 **Interactive Design and Game Development**\
 📆 2020 - 2024\
