@@ -13,8 +13,8 @@ I have a strong passion for both playing and committed to learning developing ga
 
 
 ## Projects 
-[Deadline](https://numdypixe1.github.io/deadline/)
-[Portfolio](https://nextjs-portfolio-o14iasqpg-numdypixe1s-projects.vercel.app/)
+- [Deadline](https://numdypixe1.github.io/deadline/)
+- [Portfolio](https://nextjs-portfolio-o14iasqpg-numdypixe1s-projects.vercel.app/)
 
 <details>
   <summary>📃 Resume</summary>
