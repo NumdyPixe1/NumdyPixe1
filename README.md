@@ -12,7 +12,7 @@ I have a strong passion for both playing and committed to learning developing ga
 </p>
 
 
-# Projects 
+# 🎯Projects 
 - [Deadline](https://numdypixe1.github.io/deadline/) The website calculates the duration from start to end.
 - [Portfolio](https://nextjs-portfolio-o14iasqpg-numdypixe1s-projects.vercel.app/) Portfolio website inspired by the Windows XP theme, using MongoDB
 for project data management.
@@ -20,17 +20,17 @@ for project data management.
 <details>
   <summary>📃 Education & Experience</summary>
 
-# Education
+# 🎓Education
 
 - 📖 **Interactive Design and Game Development**\
 📆 2020 - 2024\
 📍 **Dhurakij Pundit University** - Bangkok, Thailand
 
-- 📖 **Web Engineering and Mobile Application Development**\
+<!--- 📖 **Web Engineering and Mobile Application Development**\
 📆 2024 - Present\
-📍 **Dhurakij Pundit University** - Bangkok, Thailand
+📍 **Dhurakij Pundit University** - Bangkok, Thailand -->
 
-## Experience
+# 💼Experience
 
 - 👨‍💻 **Game Master (GM)**
 📆 May - August 2026\
