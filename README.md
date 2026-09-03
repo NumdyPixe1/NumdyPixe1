@@ -17,7 +17,7 @@ I have a strong passion for both playing and committed to learning developing ga
 - [Portfolio](https://nextjs-portfolio-o14iasqpg-numdypixe1s-projects.vercel.app/) Portfolio website inspired by the Windows XP theme, using MongoDB
 for project data management.
 
-
+<div></div>
 <details>
   <summary>📃 Education & Experience</summary>
 
